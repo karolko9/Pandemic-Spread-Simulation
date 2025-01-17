@@ -1,0 +1,20 @@
+{
+    "SEIR_parameters": {
+        "transmission_rate": 2,
+        "incubation_rate": 1,
+        "recovery_rate": 0.05
+    },
+    "vaccination": {
+        "vaccination_rate": 0.0002,
+        "vaccination_enabled": false
+    },
+    "lockdown": {
+        "lockdown_threshold": 0.4,
+        "lockdown_time": 30
+    },
+    "flights_enabled": true,
+    "initial_infected_population_h3": {
+        "846026bffffffff": 0.5,
+        "841e25bffffffff": 0.5
+    }
+}
